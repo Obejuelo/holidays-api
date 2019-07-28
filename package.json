@@ -4,8 +4,7 @@
   "description": "holidays in US & MX",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "obed hernandez",
   "license": "ISC",
